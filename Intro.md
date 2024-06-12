@@ -33,4 +33,4 @@ Algorithmic trading and finance programming involve using mathematical models an
 
 - **[Python for Finance Cookbook - Second Edition: Over 80 powerful recipes for effective financial data analysis 2nd ed.](https://www.amazon.com/Python-Finance-Cookbook-powerful-effective/dp/1800209315)**
 - **[Machine Learning for Algorithmic Trading: Predictive models to extract signals from time series data and create a trading edge](https://www.amazon.com/Machine-Learning-Algorithmic-Trading-predictive/dp/1839217715)**
-- **[Machine Learning for Financial Risk Management with Python: Algorithms for Modeling Risk](https://www.amazon.com/Machine-Learning-Financial-Risk-Management/dp/1119596364)**
+- **[Machine Learning for Financial Risk Management with Python: Algorithms for Modeling Risk](https://www.amazon.com/Financial-Theory-Python-Gentle-Introduction/dp/1098104358))**
