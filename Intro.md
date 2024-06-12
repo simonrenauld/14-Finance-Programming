@@ -1,4 +1,3 @@
-
 # Algorithmic Trading and Finance Programming
 
 Algorithmic trading and finance programming involve using mathematical models and software tools to execute trades on financial markets automatically. Here's an overview of key concepts, tools, and techniques used in this field:
@@ -30,7 +29,8 @@ Algorithmic trading and finance programming involve using mathematical models an
 - **QuantLib**: For quantitative finance.
 - **TA-Lib**: For technical analysis.
 
-Scikit-learn: For machine learning and predictive modeling.
-TensorFlow/PyTorch: For deep learning models.
-QuantLib: For quantitative finance.
-TA-Lib: For technical analysis.
+## Further Reading
+
+- **[Python for Finance Cookbook - Second Edition: Over 80 powerful recipes for effective financial data analysis 2nd ed.](https://www.amazon.com/Python-Finance-Cookbook-powerful-effective/dp/1800209315)**
+- **[Machine Learning for Algorithmic Trading: Predictive models to extract signals from time series data and create a trading edge](https://www.amazon.com/Machine-Learning-Algorithmic-Trading-predictive/dp/1839217715)**
+- **[Machine Learning for Financial Risk Management with Python: Algorithms for Modeling Risk](https://www.amazon.com/Machine-Learning-Financial-Risk-Management/dp/1119596364)**
