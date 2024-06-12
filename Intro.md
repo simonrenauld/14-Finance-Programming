@@ -44,8 +44,8 @@ Algorithmic trading and finance programming involve using mathematical models an
 - **QuantLib**: For quantitative finance.
 - **TA-Lib**: For technical analysis.
 
-## Further Reading
-
 - **[Python for Finance Cookbook - Second Edition: Over 80 powerful recipes for effective financial data analysis 2nd ed.](https://www.amazon.com/Python-Finance-Cookbook-powerful-effective/dp/1800209315)**
 - **[Machine Learning for Algorithmic Trading: Predictive models to extract signals from time series data and create a trading edge](https://www.amazon.com/Machine-Learning-Algorithmic-Trading-predictive/dp/1839217715)**
-- **[Machine Learning for Financial Risk Management with Python: Algorithms for Modeling Risk](https://www.amazon.com/Financial-Theory-Python-Gentle-Introduction/dp/1098104358))**
+- **[Artificial Intelligence in Finance: A Python-Based Guide](https://www.amazon.com/Artificial-Intelligence-Finance-Python-Based/dp/1098104358)**
+- **[Machine Learning for Financial Risk Management with Python: Algorithms for Modeling Risk](https://www.amazon.com/Machine-Learning-Financial-Risk-Management/dp/1119596364)**
+- **[Python for Algorithmic Trading: From Idea to Cloud Deployment](https://www.amazon.com/Python-Algorithmic-Trading-Cloud-Deployment/dp/149205335X/ref=pd_bxgy_thbs_d_sccl_1/134-8406101-8619027?pd_rd_w=y7KNq&content-id=amzn1.sym.c51e3ad7-b551-4b1a-b43c-3cf69addb649&pf_rd_p=c51e3ad7-b551-4b1a-b43c-3cf69addb649&pf_rd_r=6H9BMZK0TVWETVGER2J8&pd_rd_wg=tzhUR&pd_rd_r=d26602bc-88ee-46dc-9106-509cb609e2a5&pd_rd_i=149205335X&psc=1)**
