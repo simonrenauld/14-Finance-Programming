@@ -53,20 +53,14 @@ Algorithmic trading and finance programming involve using mathematical models an
 
 
 
-A Four-Languages World
-Against this background, finance has become a world of four languages:
-Natural language
-Today, the English language is the only relevant language in the field when it
-comes to published research, books, articles, or news.
-Financial language
-Like every other field, finance has technical terms, notions, and expressions that
-describe certain phenomena or ideas that are usually not relevant in other
-domains.
-4 | Chapter 1: Finance and Python
-Mathematical language
-Mathematics is the tool and language of choice when it comes to formalizing the
-notions and concepts of finance.
-Programming language
-As the quote at the beginning of the preface points out, Python as a programming
-language has become the language of choice in many corners of the financial
-industry.
+- 1. **Natural language**:
+   Today, the English language is the only relevant language in the field when it comes to published research, books, articles, or news.
+   
+ **Financial language**:
+   Like every other field, finance has technical terms, notions, and expressions that describe certain phenomena or ideas that are usually not relevant in other domains.
+   
+   **Mathematical language**:
+   Mathematics is the tool and language of choice when it comes to formalizing the notions and concepts of finance.
+   
+   **Programming language**:
+   As the quote at the beginning of the preface points out, Python as a programming language h...
