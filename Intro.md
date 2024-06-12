@@ -1,5 +1,20 @@
 # Algorithmic Trading and Finance Programming
 
+### Human idea into language of maths and so as programming
+
+1. *** Math is formulation of human ideas *** it's a tool!
+
+2. Scary maths language:: each step specific rules. Mathematical toolkit and when to apply which rule.->  practice
+
+3. Coding And algorithm: debugging is coding. 
+
+4. Understand codes strategy: train.py and eval.py starting point.  Overview base 
+
+5. Success or failure: stop learning too quick 
+
+
+
+
 Algorithmic trading and finance programming involve using mathematical models and software tools to execute trades on financial markets automatically. Here's an overview of key concepts, tools, and techniques used in this field:
 
 ## Key Concepts
