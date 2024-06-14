@@ -13,8 +13,6 @@ Understand codes strategy: train.py and eval.py starting point.  Overview base
 Success or failure: stop learning too quick 
 
 
-
-
 Algorithmic trading and finance programming involve using mathematical models and software tools to execute trades on financial markets automatically. Here's an overview of key concepts, tools, and techniques used in this field:
 
 ## Key Concepts
@@ -44,23 +42,7 @@ Algorithmic trading and finance programming involve using mathematical models an
 - **QuantLib**: For quantitative finance.
 - **TA-Lib**: For technical analysis.
 
-- **[Python for Finance Cookbook - Second Edition: Over 80 powerful recipes for effective financial data analysis 2nd ed.](https://www.amazon.com/Python-Finance-Cookbook-powerful-effective/dp/1800209315)**
-- **[Machine Learning for Algorithmic Trading: Predictive models to extract signals from time series data and create a trading edge](https://www.amazon.com/Machine-Learning-Algorithmic-Trading-predictive/dp/1839217715)**
-- **[Artificial Intelligence in Finance: A Python-Based Guide](https://www.amazon.com/Artificial-Intelligence-Finance-Python-Based/dp/1098104358)**
-- **[Machine Learning for Financial Risk Management with Python: Algorithms for Modeling Risk](https://www.amazon.com/Machine-Learning-Financial-Risk-Management/dp/1119596364)**
-- **[Python for Algorithmic Trading: From Idea to Cloud Deployment](https://www.amazon.com/Python-Algorithmic-Trading-Cloud-Deployment/dp/149205335X/ref=pd_bxgy_thbs_d_sccl_1/134-8406101-8619027?pd_rd_w=y7KNq&content-id=amzn1.sym.c51e3ad7-b551-4b1a-b43c-3cf69addb649&pf_rd_p=c51e3ad7-b551-4b1a-b43c-3cf69addb649&pf_rd_r=6H9BMZK0TVWETVGER2J8&pd_rd_wg=tzhUR&pd_rd_r=d26602bc-88ee-46dc-9106-509cb609e2a5&pd_rd_i=149205335X&psc=1)**
-- **[Data Quality Engineering in Financial Services]([https://www.amazon.com/Artificial-Intelligence-Finance-Python-Based/dp/1098104358](https://www.amazon.com/Data-Quality-Engineering-Financial-Services-ebook/dp/B0BJTVVT3S))**
 
-
-
-- 1. **Natural language**:
-   Today, the English language is the only relevant language in the field when it comes to published research, books, articles, or news.
-   
- **Financial language**:
-   Like every other field, finance has technical terms, notions, and expressions that describe certain phenomena or ideas that are usually not relevant in other domains.
-   
-   **Mathematical language**:
-   Mathematics is the tool and language of choice when it comes to formalizing the notions and concepts of finance.
    
    **Programming language**:
    As the quote at the beginning of the preface points out, Python as a programming language h...
