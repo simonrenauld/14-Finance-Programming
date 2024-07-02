@@ -47,8 +47,9 @@ Algorithmic trading and finance programming involve using mathematical models an
    **Programming language**:
    As the quote at the beginning of the preface points out, Python as a programming language h...
 
+   **Commun Language**:
 
-    **Cheat sheet*:
-![cheatsheet](https://github.com/simonrenauld/14-Finance-Programming/assets/79364202/ce00e2f3-953c-4bde-ad82-3db8f24c3cd9)
+![cheatsheet](https://github.com/simonrenauld/14-Finance-Programming/assets/79364202/7bca9e01-98ea-4a14-bf0a-a092be11b211)
+
 
 
