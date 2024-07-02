@@ -46,3 +46,8 @@ Algorithmic trading and finance programming involve using mathematical models an
    
    **Programming language**:
    As the quote at the beginning of the preface points out, Python as a programming language h...
+
+
+    **Cheat sheet*:
+
+  ![Uploading image.png…]()
