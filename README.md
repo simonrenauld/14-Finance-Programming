@@ -48,6 +48,6 @@ Algorithmic trading and finance programming involve using mathematical models an
    As the quote at the beginning of the preface points out, Python as a programming language h...
 
 
-    **Cheat sheet*:
+    **Cheat sheet*:![Picture2](https://github.com/simonrenauld/14-Finance-Programming/assets/79364202/ce1a2523-68b9-4a84-96bc-1f7ad6579acc)
 
-  ![Uploading image.png…]()
+
