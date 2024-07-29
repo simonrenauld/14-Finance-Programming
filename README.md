@@ -74,7 +74,3 @@ Combining time with currency leads to the notion of cash flow. Consider an inves
 
 Consider an investment project with cash flows c = c0,c1 = (–10, 12). The return R ∈ ℝ of the project is the sum of the cash flows R = c0+c1 = –10 + 12 = 2. The rate of return, r ∈ ℝ, is the return, R, divided by c0 , that is by the absolute value of the investment outlay today:
 
-r = R
-c0 = −10+12
-10 = 2
-10 = 0.2
