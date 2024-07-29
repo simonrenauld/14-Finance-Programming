@@ -69,3 +69,12 @@ Agents can be thought of as individual human beings being active in the economy.
 
 
 Combining time with currency leads to the notion of cash flow. Consider an invest‐ment project that requires an investment of, say, 9.5 currency units today and pays back 11.75 currency units after one year. An investment is generally considered to be a cash outflow, and one often represents this as a negative real number, c ∈ ℝ<0, or, more specifically, c = –9.5. The payback is a cash inflow and therewith a positive real number, c ∈ ℝ≥0, or c = +11.75 in the example.
+
+### Return
+
+Consider an investment project with cash flows c = c0,c1 = (–10, 12). The return R ∈ ℝ of the project is the sum of the cash flows R = c0+c1 = –10 + 12 = 2. The rate of return, r ∈ ℝ, is the return, R, divided by c0 , that is by the absolute value of the investment outlay today:
+
+r = R
+c0 = −10+12
+10 = 2
+10 = 0.2
