@@ -52,4 +52,20 @@ Algorithmic trading and finance programming involve using mathematical models an
 ![cheatsheet](https://github.com/simonrenauld/14-Finance-Programming/assets/79364202/7bca9e01-98ea-4a14-bf0a-a092be11b211)
 
 
+An economy is an abstract notion that subsumes other elements of the financial model, like assets (real, financial), agents (people, institutions), or money. Like in the real world, an economy cannot be seen or touched. Nor can it be formally modeled directly—it rather simpli‐fies communication to have such a summary term available. The single model ele‐ments together form the economy.
 
+
+### Real Assets
+
+Multiple real assets are available in the economy that can be used for different pur‐poses. A real asset might be a chicken egg or a complex machine to produce other real assets. At this point, it is not relevant who, for example, produces the real assets or who owns them.
+
+
+### Agents
+
+Agents can be thought of as individual human beings being active in the economy. They might be involved in producing real assets or consuming them or trading them. They accept money during transactions and spend it during others. An agent might
+
+
+### Cash Flow
+
+
+Combining time with currency leads to the notion of cash flow. Consider an invest‐ment project that requires an investment of, say, 9.5 currency units today and pays back 11.75 currency units after one year. An investment is generally considered to be a cash outflow, and one often represents this as a negative real number, c ∈ ℝ<0, or, more specifically, c = –9.5. The payback is a cash inflow and therewith a positive real number, c ∈ ℝ≥0, or c = +11.75 in the example.
