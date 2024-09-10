@@ -1,6 +1,8 @@
 # OTHER RESSOURCES
 
-- https://github.com/dkanungo/Probabilistic-ML-for-finance-and-investing 
+- https://github.com/dkanungo/Probabilistic-ML-for-finance-and-investing
+
+- https://github.com/simonrenauld/Machine-Learning-for-Algorithmic-Trading-Second-Edition
 
 
 
