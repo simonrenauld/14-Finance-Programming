@@ -1,3 +1,16 @@
+# OTHER RESSOURCES
+
+- https://github.com/dkanungo/Probabilistic-ML-for-finance-and-investing 
+
+
+
+
+
+
+
+
+
+
 # Algorithmic Trading and Finance Programming
 
 ### Human idea into language of maths and so as programming
